@@ -1,7 +1,6 @@
 #!/bin/sh
 
 LIST="spectral-norm-time \
-      spectral-norm-parallel \
       spectral-orig"
 
 for i in $LIST; do
